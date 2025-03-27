@@ -5,6 +5,4 @@ This project aims to analyze the cholera outbreak in a specific region by incorp
 ![Correlation matrix](https://github.com/AdithyaOthayoth/Disease-Outbreak-analysis-and-prediction/assets/118025644/3272d5d2-91f7-42a5-bd62-351bd6dc3d13)
 
 
-![XGboost training 2](https://github.com/AdithyaOthayoth/Disease-Outbreak-analysis-and-prediction/assets/118025644/b63ffbb2-b6b2-41fb-b751-fbcb4f8b8aef)
-
 
